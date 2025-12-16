@@ -43,18 +43,18 @@ source .venv/bin/activate      # or .venv\Scripts\Activate.ps1 on Windows
 pip install -r requirements.txt
 
 #### c. Data collection
-python src/get_isbn_seed.py
-python src/scrape_abebooks.py
-python src/scrape_bookfinder_amazon.py
+- python src/get_isbn_seed.py
+- python src/scrape_abebooks.py
+- python src/scrape_bookfinder_amazon.py
 
 #### d. Data cleaning
-python src/clean_data.py
+- python src/clean_data.py
 
 #### e. Analysis
-python src/run_analysis.py
+- python src/run_analysis.py
 
 #### f. Visualization
-python src/visualize_results.py
+- python src/visualize_results.py
 
 After these steps, you should have:
 - Raw data under data/raw/
