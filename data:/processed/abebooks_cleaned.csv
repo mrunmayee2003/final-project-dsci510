@@ -1,0 +1,80 @@
+isbn,source,author,total_price,currency,offer_type
+9780448448862,abebooks,"Pascal, Janet B.,Who HQ",1.0,USD,used
+9780439261395,abebooks,Avi,1.0,USD,new
+9780099784616,abebooks,"Rendell, Ruth:",1.55,USD,used
+9781368024068,abebooks,Rick Riordan,1.57,USD,used
+9780062511232,abebooks,"Aarons, Leroy",1.58,USD,used
+9781405953993,abebooks,Hey Duggee,1.72,USD,new
+9781529017205,abebooks,"Donaldson, Julia",1.84,USD,used
+9780671790233,abebooks,Allan Nevins ; Henry Steele Commager,1.85,USD,used
+9780140364545,abebooks,"Share, Julia Eccle ; Pearce,.",1.99,USD,used
+9781580402378,abebooks,American Diabetes Association,2.35,USD,new
+9781556652479,abebooks,"Revised Psalms Rev. Daniel E. Pilarczyk,",2.5,USD,used
+9789389432459,abebooks,Kenneth Grahame,2.93,USD,used
+9780553136869,abebooks,"Renault, Mary",2.98,USD,used
+9781859581827,abebooks,"Lang, Andrew",3.03,USD,used
+9783462029734,abebooks,"DeLillo, Don, Heibert, Frank",3.08,USD,new
+9781471198083,abebooks,Rachel Renee Russell,3.24,USD,used
+9782809803464,abebooks,"James Patterson, Martin Dugard et Maryline Beury",3.63,USD,new
+9782012019058,abebooks,Maggie Stiefvater,3.63,USD,new
+9780965593199,abebooks,"Simon / John Lynch, foreword Singh",4.0,USD,new
+9780345320285,abebooks,L. Frank Baum,4.12,USD,used
+9780008195649,abebooks,Baum,4.42,USD,new
+9780394747095,abebooks,Jean-Paul Sartre,4.5,USD,used
+9781529043280,abebooks,James Herriot,4.53,USD,new
+9780008407926,abebooks,"Sweeney-Baird, Christina",4.93,USD,new
+9781562548902,abebooks,"Charles Dickens,Saddleback Educational Publishing",4.98,USD,new
+9780679451969,abebooks,"MacDonald, Ross",5.0,USD,new
+9780751517545,abebooks,Peter Haining,5.79,USD,new
+9780486227818,abebooks,"A. Wallis, Sir E.",6.11,USD,new
+9780060248840,abebooks,"Locker, Thomas",6.47,USD,new
+9781594568572,abebooks,"Burroughs, E. R.",6.75,USD,new
+9780140059052,abebooks,D. H. Lawrence,6.79,USD,used
+9780460014335,abebooks,ECA DE QUEIROZ,6.85,USD,used
+9780425195208,abebooks,"Braun, Lilian Jackson",6.85,USD,new
+9780688154981,abebooks,"Westall, Robert",6.88,USD,new
+9780198736479,abebooks,"Homer ; Verity, Anthony ; Allan, William",6.97,USD,new
+9781599869506,abebooks,"Conrad, Joseph",7.24,USD,used
+9780316059558,abebooks,Marc Brown,7.31,USD,new
+9781554680153,abebooks,"Oppel, Kenneth",7.41,USD,used
+9781854371287,abebooks,"Biggs, Lewis ; McGonagle, Declan ; Bann, Stephen",9.64,USD,used
+9781983422942,abebooks,"Chesterton, G. K.",9.76,USD,used
+9780448024561,abebooks,Billie Little and Penny L. Thorup,10.0,USD,used
+9781781805800,abebooks,Wisdom Codes : Ancient Words to Rewire Our Brains and Heal Our Hearts,10.41,USD,used
+9781534871304,abebooks,"Piper, H Beam",10.88,USD,new
+9780192828361,abebooks,"Dostoevsky, Fyodor, Freeborn, Richard",11.67,USD,new
+9780099537878,abebooks,Ellroy James,11.69,USD,new
+9783775716161,abebooks,"Hirsch, Vanessa ; Worm, Thomas",11.75,USD,new
+9781987433531,abebooks,George Eliot,11.86,USD,new
+9781585103096,abebooks,"Shakespeare, William ; Muggli, Mark Z. (EDT)",12.04,USD,used
+9780733619458,abebooks,"Brand-Miller, Prof. Jennie ; Kaye Foster-Powell ; Joanna McMillan-Price",12.27,USD,new
+9780891909415,abebooks,"Stratton-Porter, Gene",13.73,USD,new
+9781796911848,abebooks,Leo Tolstoy,14.81,USD,used
+9783842410466,abebooks,Abbé Prévost,15.6,USD,new
+9781782640448,abebooks,"Lawhead, Stephen R",17.49,USD,used
+9780712610469,abebooks,-,19.02,USD,new
+9780831715595,abebooks,Mark Twain,19.99,USD,used
+9781789430905,abebooks,-,21.04,USD,new
+9789507313578,abebooks,"Neruda, Pablo",24.95,USD,new
+9781015437890,abebooks,"Dumas, Alexandre",27.2,USD,used
+9780425033845,abebooks,"Von Daniken, Erich",28.39,USD,used
+9781613823972,abebooks,"Moore, Clement C.",28.67,USD,used
+9781511763714,abebooks,The Perfect Library,29.17,USD,used
+9781720540649,abebooks,Louisa May Alcott,30.28,USD,used
+9788493303648,abebooks,"Kahlo, Frida",33.12,USD,used
+9789705803536,abebooks,"Roberts, Nora",33.18,USD,used
+9781019494950,abebooks,"Jewitt, John Rodgers",34.2,USD,used
+9781600966477,abebooks,"Haggard, Sir H Rider",34.93,USD,new
+9781731234223,abebooks,Walt Whitman,35.02,USD,new
+9781443457118,abebooks,"Brennan-Jobs, Lisa",36.15,USD,used
+9781013527814,abebooks,"Wollstonecraft, Mary 1759-1797",37.09,USD,new
+9781433134142,abebooks,"Cannella, Gaile",39.42,USD,new
+9781426472947,abebooks,Gene Stratton-Porter,42.19,USD,new
+9781169232495,abebooks,Charles Dickens,43.4,USD,new
+9781016641425,abebooks,"Dickens, Charles",46.53,USD,used
+9781976023705,abebooks,"Bronte, Charlotte",47.01,USD,new
+9781138499003,abebooks,"Filimowicz, Michael (EDT) ; Tzankova, Veronika (EDT)",55.96,USD,used
+9781414297453,abebooks,W. G. Archer,58.24,USD,new
+9781602857360,abebooks,"Abulhawa, Susan",76.51,USD,new
+9780393966275,abebooks,"Keeton, William T, and Gould, James L",82.65,USD,new
+9788432248139,abebooks,ROBERT MUSIL,119.69,USD,used
