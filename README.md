@@ -73,29 +73,47 @@ to avoid putting unnecessary load on the websites we query. If any site’s stru
 
 ## 3. Repository Structure
 
-```text
-├── data/
-│   ├── raw/                # Raw API + scraped outputs
-│   └── processed/          # Cleaned datasets ready for analysis
+book-price-analysis/
 │
-├── notebooks/              # Jupyter notebooks 
-│   ├── get_isbn.ipynb              # Notebook version of ISBN seed generation
-│   ├── scrape_abebooks.ipynb       # Notebook version of AbeBooks scraper
-│   ├── scrape_amazn_data.ipynb     # Notebook version of BookFinder/Amazon scraper
-│   └── analysis_and_viz.ipynb      # Exploratory analysis + plotting
+├── data/
+│   ├── raw/                         # Raw scraped and API-collected data
+│   │   ├── abebooks_raw.csv
+│   │   ├── abebooks_raw.jsonl
+│   │   ├── bookfinder_data.csv
+│   │   └── isbn_seed_1000.csv
+│   │
+│   └── processed/                   # Cleaned datasets used for analysis
+│       ├── abebooks_cleaned.csv
+│       └── amazon_cleaned.csv
+│
+├── notebooks/                       # Interactive notebooks for development & EDA
+│   ├── get_isbn.ipynb
+│   ├── scrape_abebooks.ipynb
+│   ├── scrape_bookfinder.ipynb
+│   ├── clean_data.ipynb
+│   └── run_analysis.ipynb
+│
+├── src/                             # FPython Scripts
+│   ├── get_isbn_seed.py
+│   ├── scrape_abebooks.py
+│   ├── scrape_bookfinder_amazon.py
+│   ├── clean_data.py
+│   ├── run_analysis.py
+│   └── visualize_results.py         
+│
+├── visualizations/                  # All generated plots (as PNGs)
+│   ├── viz1_boxplot_price_by_source.png
+│   ├── viz2_histogram_price_difference.png
+│   ├── viz3_winner_bar_chart.png
+│   ├── viz4_grouped_boxplot_offer_type.png
+│   ├── viz5_scatter_direct_comparison.png
+│   └── viz6_top10_price_gaps.png
 │
 ├── results/
-│   ├── figures/            # Saved visualizations
-|
-├── src/                    # Core Python pipeline scripts
-│   ├── get_isbn_seed.py            # Builds ISBN-13 seed list using Open Library API
-│   ├── scrape_abebooks.py          # Scrapes AbeBooks listings for each ISBN
-│   ├── scrape_bookfinder_amazon.py # Scrapes BookFinder + extracts Amazon offers
-│   ├── clean_data.py               # Cleans raw data into processed CSVs
-│   ├── run_analysis.py             # Merges datasets, computes comparisons, stats
-│   └── visualize_results.ipynb        # Generates all project visualizations
+│   └── final_report.pdf             # Final submitted paper/report
 │
-├── requirements.txt        # Python dependencies
-├── README.md               #  overview + instructions 
-└── final_report.pdf        #  written report 
+├── requirements.txt                 # Required Python libraries
+├── README.md                        # Project description & instructions
+└── DSCI 510 Final Project Proposal.pdf
+
 
