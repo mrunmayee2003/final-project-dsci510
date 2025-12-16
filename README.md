@@ -86,7 +86,7 @@ book-price-analysis/
 │       ├── abebooks_cleaned.csv
 │       └── amazon_cleaned.csv
 │
-├── notebooks/                       # Interactive notebooks for development & EDA
+├── notebook/                       # Interactive notebooks for development & EDA
 │   ├── get_isbn.ipynb
 │   ├── scrape_abebooks.ipynb
 │   ├── scrape_bookfinder.ipynb
