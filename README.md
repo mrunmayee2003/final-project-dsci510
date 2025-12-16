@@ -34,10 +34,7 @@ The main goal is to understand how much prices vary for the same ISBN across dif
 
 ## 3. Repository Structure
 
-Suggested layout (matches the scripts below):
 
-```text
-.
 ├── data/
 │   ├── raw/ # raw API and scraped outputs 
 │   └── processed/ # cleaned datasets for analysis
