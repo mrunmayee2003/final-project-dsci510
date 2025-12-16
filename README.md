@@ -15,14 +15,14 @@ This project compares book prices across online sources by matching the same boo
 4) run summary analysis and generate visualizations.
 
 ## Setup Instructions:
-# Create virtual environment
+### Create virtual environment
 python3 -m venv .venv
 
-# Activate (Mac/Linux)
+##### Activate (Mac/Linux)
 source .venv/bin/activate
 
-# Activate (Windows)
+#### Activate (Windows)
 .venv\Scripts\activate
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
