@@ -93,7 +93,7 @@ to avoid putting unnecessary load on the websites we query. If any site’s stru
 │   ├── scrape_bookfinder_amazon.py # Scrapes BookFinder + extracts Amazon offers
 │   ├── clean_data.py               # Cleans raw data into processed CSVs
 │   ├── run_analysis.py             # Merges datasets, computes comparisons, stats
-│   └── visualize_results.py        # Generates & saves all project visualizations
+│   └── visualize_results.ipynb        # Generates all project visualizations
 │
 ├── requirements.txt        # Python dependencies
 ├── README.md               #  overview + instructions 
