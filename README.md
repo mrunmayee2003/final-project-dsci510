@@ -16,13 +16,13 @@ This project compares book prices across online sources by matching the same boo
 
 ## Setup Instructions:
 ### Create virtual environment
-python3 -m venv .venv
+- python3 -m venv .venv
 
 ##### Activate (Mac/Linux)
-source .venv/bin/activate
+- source .venv/bin/activate
 
 #### Activate (Windows)
-.venv\Scripts\activate
+- .venv\Scripts\activate
 
 ### Install dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
