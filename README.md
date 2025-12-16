@@ -72,7 +72,7 @@ to avoid putting unnecessary load on the websites we query. If any site’s stru
 
 
 ## 3. Repository Structure
-
+```text
 book-price-analysis/
 │
 ├── data/
