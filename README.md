@@ -36,11 +36,11 @@ This section describes how to run the scripts for data collection, cleaning, ana
 To fully reproduce the project:
 
 #### a. Create and activate a virtual environment
-python3 -m venv .venv
-source .venv/bin/activate      # or .venv\Scripts\Activate.ps1 on Windows
+- python3 -m venv .venv
+- source .venv/bin/activate      # or .venv\Scripts\Activate.ps1 on Windows
 
 #### b. Install dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 #### c. Data collection
 - python src/get_isbn_seed.py
